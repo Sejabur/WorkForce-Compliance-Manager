@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100" fill="none">
+  <!-- Outer Rounded Container -->
+  <rect width="100" height="100" rx="26" fill="url(#bento-grad)"/>
+  <rect x="1.5" y="1.5" width="97" height="97" rx="24.5" stroke="#FFFFFF" stroke-opacity="0.2" stroke-width="3"/>
+
+  <!-- Dashboard Bento Grid Icons (4 Bento Tiles) -->
+  <!-- Top Left Tile (Coral Accent) -->
+  <rect x="22" y="22" width="24" height="24" rx="7" fill="#E76257"/>
+  
+  <!-- Top Right Tile -->
+  <rect x="54" y="22" width="24" height="24" rx="7" fill="#FFFFFF" fill-opacity="0.9"/>
+  
+  <!-- Bottom Left Tile -->
+  <rect x="22" y="54" width="24" height="24" rx="7" fill="#FFFFFF" fill-opacity="0.9"/>
+  
+  <!-- Bottom Right Tile (Coral Accent) -->
+  <rect x="54" y="54" width="24" height="24" rx="7" fill="#E76257"/>
+
+  <!-- Gradients -->
+  <defs>
+    <linearGradient id="bento-grad" x1="0" y1="0" x2="100" y2="100" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1e2847"/>
+      <stop offset="1" stop-color="#1C2439"/>
+    </linearGradient>
+  </defs>
+</svg>

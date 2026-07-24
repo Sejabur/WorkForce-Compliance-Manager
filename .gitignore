@@ -1,0 +1,23 @@
+# dependencies
+/node_modules
+/.pnpm
+/.yarn
+
+# Next.js build output
+/.next/
+/out/
+
+# Environment variables
+.env
+.env*.local
+.env.local
+
+# IDE & OS files
+.DS_Store
+*.pem
+.idea/
+.vscode/
+
+# Vercel & Antigravity logs
+.vercel
+*.log
