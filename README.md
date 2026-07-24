@@ -9,7 +9,10 @@
 
 ## Summary
 
-The WorkForce Compliance Manager (WFCM) is an enterprise labor compliance platform designed to prevent labor law violations, employee burnout, and scheduling conflicts. By programmatically evaluating shifts against statutory labor standards (such as maximum weekly hours, mandatory rest periods between shifts, consecutive workdays, and role coverage), the platform replaces manual spreadsheets with automated compliance intelligence. It enables operations managers and compliance officers to maintain real-time oversight, generate structured risk briefs, and export executive PDF reports.
+The WorkForce Compliance Manager (WFCM) is an enterprise workforce operations and compliance platform designed to prevent labor law violations, employee burnout, and scheduling conflicts. By programmatically evaluating shifts against statutory labor standards (such as maximum weekly hours, mandatory rest periods between shifts, consecutive workdays, and role coverage), the platform replaces manual spreadsheets with automated compliance intelligence. It enables operations managers and compliance officers to maintain real-time oversight, generate structured risk briefs, and export executive PDF reports.
+
+<img width="1919" height="881" alt="image" src="https://github.com/user-attachments/assets/3e6f1e0d-6de7-4d89-86fc-d9f981ab1698" />
+
 
 ## Problem Statement
 
@@ -30,7 +33,7 @@ This application is designed for:
 - **Compliance & HR Officers** auditing labor law adherence and union agreement terms.
 - **Department Directors** requiring high-level risk summaries and compliance score metrics.
 
-## Success Metrics
+## Product Objectives
 
 The platform was engineered to achieve measurable operational outcomes:
 - Eliminate manual shift-by-shift compliance auditing effort.
@@ -108,7 +111,7 @@ graph TD;
 - Automated shift swap conflict checking
 - Predictive overtime forecasting
 - Multi-location labor law regulation presets
-- Integration with enterprise HRIS platforms (Workday, BambooHR)
+- Integration with enterprise HRIS platforms (Workday, BambooHR, SAP SuccessFactors)
 - SMS and Email shift alert notifications
 
 ## Design Philosophy
